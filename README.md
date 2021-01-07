@@ -1,6 +1,5 @@
 # rock-paper-scissors
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SouravJohar.visitor-badge)
 
 https://youtu.be/0uSA3xyXlwM 
 
